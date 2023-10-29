@@ -18,9 +18,9 @@
 
 <h1 align="center">Tools</h1>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=OS&message=Windows Linux&color=blue&logo=artix-linux&style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/static/v1?label=Shell&message=BASH&color=black&logo=powershell&style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/static/v1?&label=EDITOR&message=VS CODE&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
+  <img src="https://img.shields.io/static/v1?label=OS&message=Windows / Linux&color=blue&logo=linux&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/static/v1?label=Shell&message=zsh&color=black&logo=powershell&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/static/v1?&label=EDITOR&message=VS CODE / nvim&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
 </div>
 
 <h1 align="center">My STATS<h1>
