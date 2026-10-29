@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Software Developer @ Neosperience · CS @ UniTo
+  Software Developer @ STORM Reply · SWE @ PoliTo
 </p>
 
 ---
